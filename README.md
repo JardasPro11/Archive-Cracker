@@ -9,4 +9,8 @@ Tenhle skript používá 7-Zip ke zkoušení různých hesel ze slovníku, použ
 Slovník si můžete upravovat podle sebe, je zde přidělený i soubor slovnik.txt, který obsahuje známé kombinace hesel a některé vzorce které by mohli být hesla jako třeba města, hory, věci, jména a dále.  
 
 **K čemu je to dobrý?**  
-Pokud jste zapomněli heslo od vašeho archivu, tohle může být dobrý nástroj na jeho prolomení, a pokud si myslíte co by to heslo mohlo být, můžete ho napsat do slovníku!
+Pokud jste zapomněli heslo od vašeho archivu, tohle může být dobrý nástroj na jeho prolomení, a pokud si myslíte co by to heslo mohlo být, můžete ho napsat do slovníku!  
+
+**Jak začít?**  
+- Stiskněte na Githubu zelené tlačítko "Code" a potom "Download ZIP" a stáhne se ZIP soubor který obsahuje vše co potřebujete
+- Rozbalte tenhle ZIP soubor do nějaké složky, třeba "Archive-Cracker"  
