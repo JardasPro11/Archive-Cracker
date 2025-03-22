@@ -13,4 +13,7 @@ Pokud jste zapomněli heslo od vašeho archivu, tohle může být dobrý nástro
 
 **Jak začít?**  
 - Stiskněte na Githubu zelené tlačítko "Code" a potom "Download ZIP" a stáhne se ZIP soubor který obsahuje vše co potřebujete
-- Rozbalte tenhle ZIP soubor do nějaké složky, třeba "Archive-Cracker"  
+- Rozbalte tenhle ZIP soubor do nějaké složky, třeba "Archive-Cracker"
+- Jděte do té složky a spusťte soubor "Archive Cracker.bat"
+- Stiskněte na úvodní obrazovce klávesu "Z" pro začátek
+- Zadejte celou cestu k vašemu slovníku (ve formátu txt), pokud používáte předpřipravený slovník, stačí jen napsat "slovnik.txt" ale pokud máte vlastní slovník a v jiné složce než v té kde je ten skript, bude potřeba zadat celou cestu ke slovníku např: C:\Users\Jan\Documents\slovnik.txt  
