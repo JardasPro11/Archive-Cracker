@@ -17,4 +17,6 @@ Pokud jste zapomněli heslo od vašeho archivu, tohle může být dobrý nástro
 - Jděte do té složky a spusťte soubor "Archive Cracker.bat"
 - Stiskněte na úvodní obrazovce klávesu "Z" pro začátek
 - Zadejte celou cestu k vašemu slovníku (ve formátu txt), pokud používáte předpřipravený slovník, stačí jen napsat "slovnik.txt" ale pokud máte vlastní slovník a v jiné složce než v té kde je ten skript, bude potřeba zadat celou cestu ke slovníku např: C:\Users\Jan\Documents\slovnik.txt
-- Zadejte celou cestu k vašemu archivu, pokud si to chcete vyzkoušet na testovacím ZIPu test.zip, stačí jen napsat test.zip, ale jinak celou cestu  
+- Zadejte celou cestu k vašemu archivu, pokud si to chcete vyzkoušet na testovacím ZIPu test.zip, stačí jen napsat test.zip, ale jinak celou cestu
+- Skript začne zkoušet všechna hesla ve slovníku, a informuje vás jestli bylo nalezeno nebo ne
+- A to je vše! Užíjte si váš Archive Cracker!
